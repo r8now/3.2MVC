@@ -1,0 +1,29 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.table {
+    box-shadow: 1px 7px 6px 9px;
+}
+header {
+    box-shadow: 1px 7px 6px 9px;
+}
+
+a:hover {
+    background-color: lightgreen;
+   
+}
